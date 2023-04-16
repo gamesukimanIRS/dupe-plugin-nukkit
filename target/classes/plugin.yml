@@ -1,0 +1,11 @@
+name: DupePlugin
+main: me.henry.plugin.Plugin
+version: 1.0.0
+author: gamesukimanIRS
+authors: ["gamesukimanIRS","kingofhenz"]
+api: ["1.0.0"]
+description: minecraft plugin
+commands:
+  dupe:
+    description: 手に持っているアイテムを複製します
+    usage: /dupe
